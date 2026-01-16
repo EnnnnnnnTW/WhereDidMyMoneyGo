@@ -1,1 +1,0 @@
-import{_ as a,c as s,a as r,p as o,t as n,o as c}from"./index-_NGbiCmO.js";const d={class:"header"},l={__name:"PageHeader",props:{title:{type:String,required:!0}},setup(e){return(t,_)=>(c(),s("div",d,[r("h2",null,n(e.title),1),o(t.$slots,"default",{},void 0)]))}},p=a(l,[["__scopeId","data-v-90ae22a5"]]);export{p as P};
